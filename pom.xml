@@ -12,6 +12,7 @@
         <module>design-pattern-template-method</module>
         <module>design-pattern-singleton</module>
         <module>design-pattern-strategy</module>
+        <module>design-pattern-factory</module>
     </modules>
 
 
